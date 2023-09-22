@@ -1,0 +1,3 @@
+cmake_minimum_required(VERSION 3.22.0)
+project(CMake_HW_2)
+add_executable(imbored22 equilateral_triangle.h Figure.h isosceles_triangle.h parallelogram.h Quad.h rectangle.h rhombus.h Right_angle_triangle.h Right_angle_triangle.cpp square.h Triangle.h equilateral_triangle.cpp Figure.cpp isosceles_triangle.cpp Nick_Ostrovsky_3_6_3_Rev_A.cpp parallelogram.cpp Quad.cpp rectangle.cpp rhombus.cpp Square.cpp Triangle.cpp)
